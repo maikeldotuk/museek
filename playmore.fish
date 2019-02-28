@@ -1,7 +1,7 @@
 #!/usr/bin/fish
 
 # Right, there should be a definition of the folder to save the music, in the meantime:
-set SAVE_HERE /home/maikel/Music
+set SAVE_HERE $HOME/Music
 
 
 function findsong
